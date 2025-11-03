@@ -1,4 +1,3 @@
-/IS216 WAD2/exercises/week10-ice-yujjjia/src/components/subcomponents/TaskTracker.vue
 <script>
 export default {
     props: {
